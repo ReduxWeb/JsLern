@@ -7,5 +7,6 @@ console.log(a * b);
 console.log(a / b);
 
 //Задание №2
+// Объявляем переменные и выводим в консоль
 const name = prompt("Как вас зовут ?");
 console.log(`Привет, ${name}`);
